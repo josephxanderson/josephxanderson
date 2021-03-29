@@ -1,7 +1,8 @@
-## Hello ☺️
+### Hello ☺️
 
-I'm a New Jersey-based PHP, JS, HTML, and CSS developer working on Laravel & React projects.
+👨🏽‍🔬 I'm a designer and developer building Laravel & React projects.
 
-👨🏽‍🔬 Currently learning React
-🌎 @josephxanderson around the Internet
-🔗 josephxanderson.com
+🌟 My favorite languages are PHP & JS.
+
+🌎 @josephxanderson around the Internet<br>
+🔗 josephxanderson.com<br>
