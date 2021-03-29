@@ -2,7 +2,8 @@
 
 👨🏽‍🔬 I'm a designer and developer building Laravel & React projects.
 
-🌟 My favorite languages are PHP & JS.
+🌟 I primarily build APIs in PHP, and design front-end apps in JS, HTML, CSS, and Swift.
 
-🌎 @josephxanderson around the Internet<br>
+#### Follow me 🌎
+📱 @josephxanderson around the Internet<br>
 🔗 josephxanderson.com<br>
